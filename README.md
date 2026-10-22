@@ -8,3 +8,6 @@ Pac-Man és un cercle groc amb boca que s'introdueix en laberints per a menjar p
 
 ## Web per jugar
 [Enllaç](https://pacmangratis.net/)
+
+## Foto amb el joc
+![Joc pacman](image.png)
