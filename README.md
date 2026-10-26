@@ -14,3 +14,6 @@ Pac-Man és un cercle groc amb boca que s'introdueix en laberints per a menjar p
 
 ## Blinky
 [Enllaç a la descrpció](blinky.md)
+
+## Inky
+[Enllaç a la descrpció](inky.md)
